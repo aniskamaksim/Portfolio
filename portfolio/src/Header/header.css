@@ -1,0 +1,36 @@
+.header_main {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3em;
+    width: 100%;
+    background-color: black;
+    border-bottom: #00cc22 solid 1px;
+
+}
+.burger_main {
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45em;
+    z-index: 9999;
+}
+.burger_line_1, .burger_line_2, .burger_line_3 {
+    background-color: white;
+    width: 30px;
+    height: 3px;
+}
+.active {
+    transition: all 100ms ease-in-out;
+    transform: rotate(45deg);
+    transform-origin: top left;
+}
+.active_3 {
+    transition: all 100ms ease-in-out;
+    transform: rotate(-45deg);
+    transform-origin: bottom left;
+}
+.active_2 {
+    width: 0;
+}
