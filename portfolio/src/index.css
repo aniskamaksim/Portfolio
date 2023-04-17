@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'IBM Plex Mono', monospace, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -11,4 +11,55 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h1 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+  font-size: xx-large;
+}
+h2 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 300;
+  font-size: x-large;
+}
+li {
+  font-family: monospace;
+  font-size: xx-large;
+}
+
+@media screen and (max-width: 1140px){
+  h1 {
+
+    font-size: large;
+  }
+  h2 {
+    font-size: medium;
+  }
+  li {
+    font-size: large;
+  }
+}
+@media screen and (max-width: 600px){
+  h1 {
+
+    font-size: medium;
+  }
+  h2 {
+    font-size: small;
+  }
+  li {
+    font-size: medium;
+  }
+}
+@media screen and (max-width: 320px){
+  h1 {
+
+    font-size: small;
+  }
+  h2 {
+    font-size: smaller;
+  }
+  li {
+    font-size: small;
+  }
 }

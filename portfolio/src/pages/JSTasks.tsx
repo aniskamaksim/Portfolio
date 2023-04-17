@@ -18,7 +18,7 @@ export const JSTasks = () => {
                 <li><a href="https://github.com/aniskamaksim/human-readable-number">human-readable-number</a></li>
             </ol>
         </div>
-            <h2 style={{color: "#f2f2f2"}}>More my code practice on codwars: <a href="https://www.codewars.com/users/aniskaMaksim">https://www.codewars.com/users/aniskaMaksim</a></h2>
+            <h2 style={{color: "#f2f2f2", marginRight: "1em"}}>More my code practice on codwars: <a href="https://www.codewars.com/users/aniskaMaksim" target={"_blank"}>@aniskaMaksim</a></h2>
         </div>
     );
 };

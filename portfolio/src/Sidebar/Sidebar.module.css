@@ -1,5 +1,5 @@
 .sidebar_main {
-    background-color: #f2f2f2;
+    background-color: inherit;
     display: flex;
     position: absolute;
     flex-direction: row;
@@ -7,7 +7,7 @@
     height: 4.4em;
     z-index: 999;
     /*opacity: 1;*/
-    transform: translate(-1280px);
+    transform: translate(-1150px);
     transition-duration: 500ms;
 }
 .open {
@@ -46,6 +46,10 @@
 }
 
 .nav a.active {
-    color: mediumpurple;
-    background-color: lightblue;
+    border-bottom: #00cc22 1px solid;
+    color: lightcyan;
+    background-color: inherit;
+}
+.menu_lable {
+
 }
