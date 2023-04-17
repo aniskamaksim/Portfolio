@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Main_TODO/static/css/main.c54074cd.css",
-    "main.js": "/Main_TODO/static/js/main.bf8f050f.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Main_TODO/static/js/787.1ed0c42c.chunk.js",
-    "static/media/momentum_1.png": "/Main_TODO/static/media/momentum_1.e8278533bf65c6162711.png",
-    "static/media/travel_1.png": "/Main_TODO/static/media/travel_1.1d301b60af313c007255.png",
-    "static/media/plants.png": "/Main_TODO/static/media/plants.83eb2a253ed252e11e2f.png",
-    "static/media/online_zoo.png": "/Main_TODO/static/media/online_zoo.702e0e9c3907d17ead87.png",
-    "static/media/online_zoo_2.png": "/Main_TODO/static/media/online_zoo_2.c71ad1be4e31f6978a8b.png",
-    "static/media/chat_simulation.png": "/Main_TODO/static/media/chat_simulation.6f11a5b37aff6fcd314e.png",
-    "static/media/logorounded.png": "/Main_TODO/static/media/logorounded.14801c750f1d05555d45.png",
-    "static/media/todo_html.png": "/Main_TODO/static/media/todo_html.553b2035042297cc2359.png",
-    "static/media/travel_2.png": "/Main_TODO/static/media/travel_2.4fcbeb0484d09ae68e23.png",
-    "static/media/TodoList.png": "/Main_TODO/static/media/TodoList.eb97e846693fa4c903f4.png",
-    "static/media/message_counter.png": "/Main_TODO/static/media/message_counter.f18c87d45cb383109f57.png",
-    "static/media/simple_counter.png": "/Main_TODO/static/media/simple_counter.288c4cbfdb0fb11b1a7c.png",
-    "index.html": "/Main_TODO/index.html",
-    "main.c54074cd.css.map": "/Main_TODO/static/css/main.c54074cd.css.map",
-    "main.bf8f050f.js.map": "/Main_TODO/static/js/main.bf8f050f.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Main_TODO/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.c54074cd.css",
+    "main.js": "/Portfolio/static/js/main.e09b79dc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/momentum_1.png": "/Portfolio/static/media/momentum_1.e8278533bf65c6162711.png",
+    "static/media/travel_1.png": "/Portfolio/static/media/travel_1.1d301b60af313c007255.png",
+    "static/media/plants.png": "/Portfolio/static/media/plants.83eb2a253ed252e11e2f.png",
+    "static/media/online_zoo.png": "/Portfolio/static/media/online_zoo.702e0e9c3907d17ead87.png",
+    "static/media/online_zoo_2.png": "/Portfolio/static/media/online_zoo_2.c71ad1be4e31f6978a8b.png",
+    "static/media/chat_simulation.png": "/Portfolio/static/media/chat_simulation.6f11a5b37aff6fcd314e.png",
+    "static/media/logorounded.png": "/Portfolio/static/media/logorounded.14801c750f1d05555d45.png",
+    "static/media/todo_html.png": "/Portfolio/static/media/todo_html.553b2035042297cc2359.png",
+    "static/media/travel_2.png": "/Portfolio/static/media/travel_2.4fcbeb0484d09ae68e23.png",
+    "static/media/TodoList.png": "/Portfolio/static/media/TodoList.eb97e846693fa4c903f4.png",
+    "static/media/message_counter.png": "/Portfolio/static/media/message_counter.f18c87d45cb383109f57.png",
+    "static/media/simple_counter.png": "/Portfolio/static/media/simple_counter.288c4cbfdb0fb11b1a7c.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c54074cd.css.map": "/Portfolio/static/css/main.c54074cd.css.map",
+    "main.e09b79dc.js.map": "/Portfolio/static/js/main.e09b79dc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c54074cd.css",
-    "static/js/main.bf8f050f.js"
+    "static/js/main.e09b79dc.js"
   ]
 }
