@@ -41,7 +41,7 @@
 }
 
 .nav a:hover {
-    color: #669ac8;
+    color: #f2f2f2;
     text-decoration: underline;
 }
 
@@ -53,3 +53,39 @@
 .menu_lable {
 
 }
+@media screen and (max-width: 1800px){
+    .nav {
+        font-size: large;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 1500px){
+    .nav {
+        font-size: medium;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 1370px){
+    .nav {
+        font-size: small;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 1250px){
+    .nav {
+        font-size: x-small;
+        align-items: center;
+    }
+}
+/*@media screen and (max-width: 1250px){*/
+/*    .nav {*/
+/*        font-size: large;*/
+/*        align-items: center;*/
+/*        flex-direction: column;*/
+/*        gap: 1em;*/
+/*        justify-content: space-between;*/
+/*    }*/
+/*    .nav a {*/
+/*        color: white;*/
+/*    }*/
+/*}*/

@@ -19,7 +19,7 @@ export const ReactPage = () => {
                 <div className={titleDescription}>
                     <div className={titleTitle}>
                         <h2 className={white}>
-                            <a href=" https://aniskamaksim.github.io/messages_counter/" target={"_blank"}>Message
+                            <a href=" https://aniskamaksim.github.io/messages_counter/" target={"_blank"} rel={"noreferrer"}>Message
                                 counter</a>
                         </h2>
                     </div>
@@ -36,11 +36,11 @@ export const ReactPage = () => {
                                 </ul>
                     </span><br/>
                         <a href=" https://aniskamaksim.github.io/messages_counter/"
-                           target={"_blank"}> https://aniskamaksim.github.io/messages_counter/</a>
+                           target={"_blank"} rel={"noreferrer"}> https://aniskamaksim.github.io/messages_counter/</a>
                     </div>
                 </div>
                 <div className={preview}>
-                    <a href=" https://aniskamaksim.github.io/messages_counter/" target={"_blank"}>
+                    <a href=" https://aniskamaksim.github.io/messages_counter/" target={"_blank"} rel={"noreferrer"}>
                         <img src={message_count}
                              alt="message counter"
                              width={"200px"}
@@ -53,7 +53,7 @@ export const ReactPage = () => {
                 <div className={titleDescription}>
                     <div className={titleTitle}>
                         <h2 className={white}>
-                            <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"}>Chat
+                            <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"} rel={"noreferrer"}>Chat
                                 simulation</a>
                         </h2>
                     </div>
@@ -72,11 +72,11 @@ export const ReactPage = () => {
                                 </ul>
                             </span><br/>
                         <a href="https://aniskamaksim.github.io/chat_simulation/"
-                           target={"_blank"}>https://aniskamaksim.github.io/chat_simulation/</a>
+                           target={"_blank"} rel={"noreferrer"}>https://aniskamaksim.github.io/chat_simulation/</a>
                     </div>
                 </div>
                 <div className={preview}>
-                    <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"}>
+                    <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"} rel={"noreferrer"}>
                         <img src={chat_simulation}
                              alt="chat simulation"
                              width={"200px"}
@@ -88,7 +88,7 @@ export const ReactPage = () => {
                 <div className={titleDescription}>
                     <div className={titleTitle}>
                         <h2 className={white}>
-                            <a href="https://aniskamaksim.github.io/Main_TODO/" target={"_blank"}>TodoLists creator</a>
+                            <a href="https://aniskamaksim.github.io/Main_TODO/" target={"_blank"} rel={"noreferrer"}>TodoLists creator</a>
                         </h2>
                     </div>
                     <div className={descrDescr}>
@@ -107,11 +107,11 @@ export const ReactPage = () => {
                                 </ul>
                         </span><br/>
                         <a href="https://aniskamaksim.github.io/Main_TODO/"
-                           target={"_blank"}>https://aniskamaksim.github.io/Main_TODO/</a>
+                           target={"_blank"} rel={"noreferrer"}>https://aniskamaksim.github.io/Main_TODO/</a>
                     </div>
                 </div>
                 <div className={preview}>
-                    <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"}>
+                    <a href="https://aniskamaksim.github.io/chat_simulation/" target={"_blank"} rel={"noreferrer"}>
                         <img src={Todolist}
                              alt={"todolist creator"}
                              width={"200px"}

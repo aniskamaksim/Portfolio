@@ -36,7 +36,7 @@ export const Header: React.FC<HeaderType> = ({handleOpen, open}) => {
             line_3 && line_3.classList.remove("active_3")
             line_2 && line_2.classList.remove("active_2")
         }
-    }, [open])
+    }, [open, line_3, line_2, line_1])
     return (
         <div className={"header_main"}>
             <div className={"burger_main"}
